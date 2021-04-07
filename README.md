@@ -6,7 +6,7 @@ Backend: ASP.NET Core<br/>
 Frontend: Vue.js<br/>
 DB: Microsoft SQL Server
 
-###Funkcjonalności:
+### Funkcjonalności:
 1.  Możliwość założenia konta oraz zalogowania się.
 2.  Możliwość zalogowania się przez portal społecznościowy.
 3.  Możliwość podglądu profilu użytkownika i edycji swoich danych.
